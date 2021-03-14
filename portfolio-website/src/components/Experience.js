@@ -12,11 +12,9 @@ const Experience = () => {
                 <div className="timeline-block timeline-block-right">
                     <div className="marker"></div>
                     <div className="timeline-content">
-                        <h3>2014-2015</h3>
-                        <p>Content to be filled Content to be filled Content to be filled
-                        Content to be filled Content to be filled Content to be filled
-                        Content to be filled Content to be filled Content to be filled
-                        Content to be filled Content to be filled Content to be filled</p>
+                        <h3>2011-2015</h3>
+                        <p>Pursued B.Tech in Electrical Engineering at IIT Roorkee, where I worked on designing
+                            algorithmic models for Global Navigation Satellite Systems, Mobile Robot Navigation among others</p>
                     </div>
                 </div>
                 {/* */}
