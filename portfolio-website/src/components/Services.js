@@ -34,7 +34,7 @@ const Services = () => {
                             <div className="circle">
                                 <FontAwesomeIcon className="icon" icon={faFacebookF} size="2x" />
                             </div>
-                            <h3>Facebook Ads SMM</h3>
+                            <h3>Machine Learning</h3>
                             <p>Passionate and Dedicated</p>
                         </div>
                     </div>
@@ -44,7 +44,7 @@ const Services = () => {
                             <div className="circle">
                                 <FontAwesomeIcon className="icon" icon={faGoogle} size="2x" />
                             </div>
-                            <h3>Google Ads</h3>
+                            <h3>Database</h3>
                             <p>Passionate and Dedicated</p>
                         </div>
                     </div>
