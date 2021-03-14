@@ -1,0 +1,35 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.2f3a87c4.chunk.css",
+    "main.js": "/portfolio-website/static/js/main.a6dc33aa.chunk.js",
+    "main.js.map": "/portfolio-website/static/js/main.a6dc33aa.chunk.js.map",
+    "runtime-main.js": "/portfolio-website/static/js/runtime-main.f0a7b2e6.js",
+    "runtime-main.js.map": "/portfolio-website/static/js/runtime-main.f0a7b2e6.js.map",
+    "static/css/2.af96e480.chunk.css": "/portfolio-website/static/css/2.af96e480.chunk.css",
+    "static/js/2.f9d7ac55.chunk.js": "/portfolio-website/static/js/2.f9d7ac55.chunk.js",
+    "static/js/2.f9d7ac55.chunk.js.map": "/portfolio-website/static/js/2.f9d7ac55.chunk.js.map",
+    "static/js/3.77d2d1cf.chunk.js": "/portfolio-website/static/js/3.77d2d1cf.chunk.js",
+    "static/js/3.77d2d1cf.chunk.js.map": "/portfolio-website/static/js/3.77d2d1cf.chunk.js.map",
+    "index.html": "/portfolio-website/index.html",
+    "static/css/2.af96e480.chunk.css.map": "/portfolio-website/static/css/2.af96e480.chunk.css.map",
+    "static/css/main.2f3a87c4.chunk.css.map": "/portfolio-website/static/css/main.2f3a87c4.chunk.css.map",
+    "static/js/2.f9d7ac55.chunk.js.LICENSE.txt": "/portfolio-website/static/js/2.f9d7ac55.chunk.js.LICENSE.txt",
+    "static/media/avatar-1.9277ecea.png": "/portfolio-website/static/media/avatar-1.9277ecea.png",
+    "static/media/avatar-2.75d8f23e.png": "/portfolio-website/static/media/avatar-2.75d8f23e.png",
+    "static/media/avatar-3.d6c9b46f.png": "/portfolio-website/static/media/avatar-3.d6c9b46f.png",
+    "static/media/avatar-4.f7fb7ed7.png": "/portfolio-website/static/media/avatar-4.f7fb7ed7.png",
+    "static/media/city-guide-app.e4843bd0.png": "/portfolio-website/static/media/city-guide-app.e4843bd0.png",
+    "static/media/me.0cdf6af0.jpg": "/portfolio-website/static/media/me.0cdf6af0.jpg",
+    "static/media/netflix.5a78c4b9.png": "/portfolio-website/static/media/netflix.5a78c4b9.png",
+    "static/media/portfolio.e4d369bc.png": "/portfolio-website/static/media/portfolio.e4d369bc.png",
+    "static/media/task-manager.7cdcc29e.png": "/portfolio-website/static/media/task-manager.7cdcc29e.png",
+    "static/media/App.css": "/portfolio-website/static/media/wall-and-laptop-background.f9e274f4.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0a7b2e6.js",
+    "static/css/2.af96e480.chunk.css",
+    "static/js/2.f9d7ac55.chunk.js",
+    "static/css/main.2f3a87c4.chunk.css",
+    "static/js/main.a6dc33aa.chunk.js"
+  ]
+}
